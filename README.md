@@ -7,7 +7,7 @@ A senior full stack developer from France , based in French Alps <img src="https
 [![Website](https://img.shields.io/badge/Website-marcantoinedutoit.com-326CE5?style=flat-square)](http://www.marcantoinedutoit.com)
 
 
-### 🌱 I’m currently learning  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/) [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/) [![Web3](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://github.com/ChainSafe/web3.js#readme/)
+### 🌱 I’m currently learning  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/) [![Web3](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://github.com/ChainSafe/web3.js#readme/)
 
 
 ### 🧐 I improve my level in [![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
