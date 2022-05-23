@@ -7,7 +7,7 @@ A senior full stack developer from France , based in French Alps <img src="https
 [![Website](https://img.shields.io/badge/Website-marcantoinedutoit.com-326CE5?style=flat-square)](http://www.marcantoinedutoit.com)
 
 
-### 🌱 I’m currently learning  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/) [![Web3](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://github.com/ChainSafe/web3.js#readme/)
+### 🌱 I’m currently learning  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/) [![Web3](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://github.com/ChainSafe/web3.js#readme/) [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/fr/)
 
 
 ### 🧐 I improve my level in [![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
@@ -38,6 +38,7 @@ A senior full stack developer from France , based in French Alps <img src="https
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+[![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
 
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
 
