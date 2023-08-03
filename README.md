@@ -1,10 +1,15 @@
 
 # Hi, I'm Marc-Antoine  👋
 
-A senior full stack developer from France , based in French Alps <img src="https://flagcdn.com/fr.svg" width="20" alt="Francais">
+I am a self-taught full-stack developer based in the French Alps <img src="https://flagcdn.com/fr.svg" width="20" alt="Francais">  with expertise in JavaScript and PHP.   
+I have had the pleasure of contributing to the creation and evolution of numerous startups and scaleups. I am passionate about learning new technologies and continuously improving my skills in computer science.
+
 
 ## About Me
-[![Website](https://img.shields.io/badge/Website-marcantoinedutoit.com-326CE5?style=flat-square)](http://www.marcantoinedutoit.com)
+[![Website](https://img.shields.io/badge/Website-marcantoinedutoit.com-326CE5?style=flat-square)](http://www.marcantoinedutoit.com)   
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/marcantoinedutoit-326CE5?style=flat-square)](https://fr.linkedin.com/in/marc-antoine-dutoit-7729b35a)   
+
 
 ### 🌱 I’m currently learning  [![Web3](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://github.com/ChainSafe/web3.js#readme/) [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/fr/)
 
