@@ -57,16 +57,20 @@ A senior full stack developer from France , based in French Alps <img src="https
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 
-## Language
+## Languages
 
 <img src="https://flagcdn.com/fr.svg" width="20" alt="Francais"> Mother tongue   
 <img src="https://flagcdn.com/us.svg" width="20" alt="English"> Intermediate   
 <img src="https://flagcdn.com/it.svg" width="20" alt="Italian"> Basic   
 
 ## Github Stats 
-This data is for github projects only   
-Many of my projects are not on github   
+This data pertains only to projects on GitHub.   
+Many of my projects are not hosted on GitHub, so it does not reflect my skill level or anything of that sort.  
+It is a GitHub metric that shows the languages in which I have the most code on GitHub.
 
-![Marc Antoine DUTOIT's github stats](https://github-readme-stats.vercel.app/api?username=marcantoinedutoit&hide=["issues"]&show_icons=true)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marcantoinedutoit.marcantoinedutoit)
+<a href="https://github.com/marcantoinedutoit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcantoinedutoit&show_icons=true&include_all_commits=true&theme=radical" alt="Razvan's github stats" />
+</a>
+<a href="https://github.com/marcantoinedutoit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcantoinedutoit&layout=compact&theme=radical&langs_count=8" />
+</a>
