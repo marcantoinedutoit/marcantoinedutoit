@@ -72,5 +72,5 @@ It is a GitHub metric that shows the languages in which I have the most code on 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcantoinedutoit&show_icons=true&include_all_commits=true&theme=radical" alt="Razvan's github stats" />
 </a>
 <a href="https://github.com/marcantoinedutoit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcantoinedutoit&layout=compact&theme=radical&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcantoinedutoit&layout=compact&theme=radical&langs_count=6" />
 </a>
