@@ -13,10 +13,7 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 
 ### 🌱 I’m currently learning  [![Web3](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://github.com/ChainSafe/web3.js#readme/) [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/fr/)
 
-### 🧐 I improve my level in [![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
-
-### 📝 I regulary post on  [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=flat-square&logo=Tumblr&logoColor=white)](https://mad-webdev.tumblr.com/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-squar&logo=codepen&logoColor=white)](https://codepen.io/dhakvehm)
-
+### 🧐 I improve my level in [![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat-square&logo=NestJS&logoColor=df234d)](https://nestjs.com/)
 
 ### 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:marc.antoine.dutoit@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-antoine-dutoit-7729b35a)
 
@@ -31,6 +28,7 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat-square&logo=NestJS&logoColor=df234d)](https://nestjs.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 [![CodeIgniter](https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
