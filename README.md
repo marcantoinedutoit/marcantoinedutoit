@@ -28,7 +28,7 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/fr/)
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![React](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=react&logoColor=3178C6)]([https://typescriptlang.org/](https://www.typescriptlang.org/))
+[![React](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=3178C6)]([https://typescriptlang.org/](https://www.typescriptlang.org/))
 [![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat-square&logo=NestJS&logoColor=df234d)](https://nestjs.com/)
