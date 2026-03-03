@@ -11,9 +11,9 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/marcantoinedutoit-326CE5?style=flat-square)](https://fr.linkedin.com/in/marc-antoine-dutoit-7729b35a)   
 
 
-### 🌱 I’m currently learning  [![Web3](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://github.com/ChainSafe/web3.js#readme/) [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/fr/)
+### 🌱 I’m currently learning  
 
-### 🧐 I improve my level in [![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat-square&logo=NestJS&logoColor=df234d)](https://nestjs.com/)
+### 🧐 I improve my level in [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/) [![Temporal](https://img.shields.io/badge/temporal-3178C6?style=for-the-badge&logo=temporal&logoColor=white)](https://temporal.io/) 
 
 ### 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:marc.antoine.dutoit@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-antoine-dutoit-7729b35a)
 
@@ -24,8 +24,11 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 [![Html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html5.org/)
 [![Css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![Web3](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://github.com/ChainSafe/web3.js#readme/) 
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/fr/)
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=react&logoColor=3178C6)]([https://typescriptlang.org/](https://www.typescriptlang.org/))
 [![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat-square&logo=NestJS&logoColor=df234d)](https://nestjs.com/)
@@ -34,6 +37,7 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
+
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
