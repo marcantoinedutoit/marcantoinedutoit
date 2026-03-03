@@ -11,9 +11,9 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/marcantoinedutoit-326CE5?style=flat-square)](https://fr.linkedin.com/in/marc-antoine-dutoit-7729b35a)   
 
 
-### 🌱 I’m currently learning  
+### 🌱 I’m currently learning   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/) [![Temporal](https://img.shields.io/badge/temporal-3178C6?style=flat-square&logo=temporal&logoColor=white)](https://temporal.io/) 
 
-### 🧐 I improve my level in [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/) [![Temporal](https://img.shields.io/badge/temporal-3178C6?style=for-the-badge&logo=temporal&logoColor=white)](https://temporal.io/) 
+### 🧐 I improve my level in [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/) [![Temporal](https://img.shields.io/badge/temporal-3178C6?style=flat-square&logo=temporal&logoColor=white)](https://temporal.io/) 
 
 ### 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:marc.antoine.dutoit@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-antoine-dutoit-7729b35a)
 
