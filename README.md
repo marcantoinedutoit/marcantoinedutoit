@@ -6,7 +6,7 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 
 
 ## About Me
-[![Website](https://img.shields.io/badge/Website-marcantoinedutoit.com-326CE5?style=flat-square)](http://www.marcantoinedutoit.com)   
+[![Website](https://img.shields.io/badge/Website-marcantoinedutoit.com-326CE5?style=flat-square)](https://marcantoinedutoit.com)   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/marcantoinedutoit-326CE5?style=flat-square)](https://fr.linkedin.com/in/marc-antoine-dutoit-7729b35a)   
 
