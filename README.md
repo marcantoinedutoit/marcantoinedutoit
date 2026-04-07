@@ -4,6 +4,12 @@
 I am a self-taught full-stack developer based in the French Alps <img src="https://flagcdn.com/fr.svg" width="20" alt="Francais">  with expertise in JavaScript and PHP.   
 I have had the pleasure of contributing to the creation and evolution of numerous startups and scaleups. I am passionate about learning new technologies and continuously improving my skills in computer science.
 
+ # Github Stats 
+This data pertains only to projects on GitHub.   
+Many of my projects are not hosted on GitHub, so it does not reflect my skill level or anything of that sort.  
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/marcantoinedutoit?cardType=github&fontFamily=Alumni%20Sans&preferLogin=true&Points.PullRequests=10&Points.PullRequestsToAnotherRepositories=50.2)](https://git.io/awesome-stats-card)
+
 
 ## About Me
 [![Website](https://img.shields.io/badge/Website-marcantoinedutoit.com-326CE5?style=flat-square)](https://marcantoinedutoit.com)   
@@ -70,14 +76,3 @@ I have had the pleasure of contributing to the creation and evolution of numerou
 <img src="https://flagcdn.com/us.svg" width="20" alt="English"> Intermediate   
 <img src="https://flagcdn.com/it.svg" width="20" alt="Italian"> Basic   
 
-## Github Stats 
-This data pertains only to projects on GitHub.   
-Many of my projects are not hosted on GitHub, so it does not reflect my skill level or anything of that sort.  
-It is a GitHub metric that shows the languages in which I have the most code on GitHub.
-
-<a href="https://github.com/marcantoinedutoit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcantoinedutoit&show_icons=true&include_all_commits=true&theme=radical" alt="Razvan's github stats" />
-</a>
-<a href="https://github.com/marcantoinedutoit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcantoinedutoit&layout=compact&theme=radical&langs_count=6" />
-</a>
