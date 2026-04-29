@@ -1,7 +1,7 @@
 
 # Hi, I'm Marc-Antoine  👋
 
-I am a self-taught full-stack developer based in the French Alps <img src="https://flagcdn.com/fr.svg" width="20" alt="Francais">  with expertise in JavaScript and PHP.   
+SaaS Architect & Senior Full-Stack | Expert IA Agentic | Node.js, React, Postgres | B2B & B2C Complexity | Connecteur Tech based in the French Alps <img src="https://flagcdn.com/fr.svg" width="20" alt="Francais">  with expertise in JavaScript and PHP.   
 I have had the pleasure of contributing to the creation and evolution of numerous startups and scaleups. I am passionate about learning new technologies and continuously improving my skills in computer science.
 
  # Github Stats 
@@ -15,6 +15,8 @@ Many of my projects are not hosted on GitHub, so it does not reflect my skill le
 [![Website](https://img.shields.io/badge/Website-marcantoinedutoit.com-326CE5?style=flat-square)](https://marcantoinedutoit.com)   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/marcantoinedutoit-326CE5?style=flat-square)](https://fr.linkedin.com/in/marc-antoine-dutoit-7729b35a)   
+   
+[![Medium](https://img.shields.io/badge/Medium-medium.com/marc.antoine.dutoit-326CE5?style=flat-square)](https://medium.com/@marc.antoine.dutoit)
 
 
 ### 🌱 I’m currently learning   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/) [![Temporal](https://img.shields.io/badge/temporal-3178C6?style=flat-square&logo=temporal&logoColor=white)](https://temporal.io/) 
