@@ -19,7 +19,7 @@ Many of my projects are not hosted on GitHub, so it does not reflect my skill le
 [![Medium](https://img.shields.io/badge/Medium-medium.com/marc.antoine.dutoit-326CE5?style=flat-square)](https://medium.com/@marc.antoine.dutoit)
 
 
-### 🌱 I’m currently learning   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/) [![Temporal](https://img.shields.io/badge/temporal-3178C6?style=flat-square&logo=temporal&logoColor=white)](https://temporal.io/) 
+### 🌱 I’m currently learning   [![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square)]([https://www.python.org/](https://go.dev/))
 
 ### 🧐 I improve my level in [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/) [![Temporal](https://img.shields.io/badge/temporal-3178C6?style=flat-square&logo=temporal&logoColor=white)](https://temporal.io/) 
 
